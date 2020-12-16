@@ -1,0 +1,43 @@
+2020-12-09T06:05:54.6NZ mysqld_safe Logging to '/Applications/mampstack-8.0.0-0/mysql/data/mysqld.log'.
+2020-12-09T06:05:55.6NZ mysqld_safe Starting mysqld.bin daemon with databases from /Applications/mampstack-8.0.0-0/mysql/data
+2020-12-09T06:05:55.359759Z 0 [System] [MY-010116] [Server] /Applications/mampstack-8.0.0-0/mysql/bin/mysqld.bin (mysqld 8.0.22) starting as process 42738
+2020-12-09T06:05:55.376970Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2020-12-09T06:05:55.589333Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2020-12-09T06:05:55.717837Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /tmp/mysqlx.sock
+2020-12-09T06:05:55.878648Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-12-09T06:05:55.879110Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2020-12-09T06:05:55.908751Z 0 [System] [MY-010931] [Server] /Applications/mampstack-8.0.0-0/mysql/bin/mysqld.bin: ready for connections. Version: '8.0.22'  socket: '/Applications/mampstack-8.0.0-0/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2020-12-09T06:50:10.6NZ mysqld_safe Logging to '/Applications/mampstack-8.0.0-0/mysql/data/mysqld.log'.
+2020-12-09T06:50:10.6NZ mysqld_safe Starting mysqld.bin daemon with databases from /Applications/mampstack-8.0.0-0/mysql/data
+2020-12-09T06:50:10.958908Z 0 [System] [MY-010116] [Server] /Applications/mampstack-8.0.0-0/mysql/bin/mysqld.bin (mysqld 8.0.22) starting as process 1291
+2020-12-09T06:50:11.045450Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2020-12-09T06:50:11.476035Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2020-12-09T06:50:11.735844Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /tmp/mysqlx.sock
+2020-12-09T06:50:11.769943Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2020-12-09T06:50:11.782609Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2020-12-09T06:50:11.873826Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-12-09T06:50:11.874274Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2020-12-09T06:50:11.935974Z 0 [System] [MY-010931] [Server] /Applications/mampstack-8.0.0-0/mysql/bin/mysqld.bin: ready for connections. Version: '8.0.22'  socket: '/Applications/mampstack-8.0.0-0/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2020-12-09T06:57:44.366085Z 0 [System] [MY-013172] [Server] Received SHUTDOWN from user <via user signal>. Shutting down mysqld (Version: 8.0.22).
+2020-12-09T06:57:45.120219Z 0 [System] [MY-010910] [Server] /Applications/mampstack-8.0.0-0/mysql/bin/mysqld.bin: Shutdown complete (mysqld 8.0.22)  MySQL Community Server - GPL.
+2020-12-09T06:57:45.6NZ mysqld_safe mysqld from pid file /Applications/mampstack-8.0.0-0/mysql/data/mysqld.pid ended
+2020-12-09T06:57:52.6NZ mysqld_safe Logging to '/Applications/mampstack-8.0.0-0/mysql/data/mysqld.log'.
+2020-12-09T06:57:52.6NZ mysqld_safe Starting mysqld.bin daemon with databases from /Applications/mampstack-8.0.0-0/mysql/data
+2020-12-09T06:57:53.018498Z 0 [System] [MY-010116] [Server] /Applications/mampstack-8.0.0-0/mysql/bin/mysqld.bin (mysqld 8.0.22) starting as process 2087
+2020-12-09T06:57:53.034625Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2020-12-09T06:57:53.272044Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2020-12-09T06:57:53.420755Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /tmp/mysqlx.sock
+2020-12-09T06:57:53.535454Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-12-09T06:57:53.535929Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2020-12-09T06:57:53.586558Z 0 [System] [MY-010931] [Server] /Applications/mampstack-8.0.0-0/mysql/bin/mysqld.bin: ready for connections. Version: '8.0.22'  socket: '/Applications/mampstack-8.0.0-0/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2020-12-16T12:45:38.6NZ mysqld_safe Logging to '/Applications/mampstack-8.0.0-0/mysql/data/mysqld.log'.
+2020-12-16T12:45:38.6NZ mysqld_safe Starting mysqld.bin daemon with databases from /Applications/mampstack-8.0.0-0/mysql/data
+2020-12-16T12:45:38.928824Z 0 [System] [MY-010116] [Server] /Applications/mampstack-8.0.0-0/mysql/bin/mysqld.bin (mysqld 8.0.22) starting as process 2321
+2020-12-16T12:45:39.012716Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2020-12-16T12:45:39.492294Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2020-12-16T12:45:39.724069Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /tmp/mysqlx.sock
+2020-12-16T12:45:39.750430Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2020-12-16T12:45:39.765695Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2020-12-16T12:45:39.821050Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-12-16T12:45:39.821959Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2020-12-16T12:45:39.923471Z 0 [System] [MY-010931] [Server] /Applications/mampstack-8.0.0-0/mysql/bin/mysqld.bin: ready for connections. Version: '8.0.22'  socket: '/Applications/mampstack-8.0.0-0/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server - GPL.

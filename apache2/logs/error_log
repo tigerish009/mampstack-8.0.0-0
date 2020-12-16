@@ -1,0 +1,182 @@
+[Thu Dec 10 21:38:02.367104 2020] [cgid:error] [pid 24659] (8)Exec format error: AH01241: exec of '/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py' failed
+[Thu Dec 10 21:38:02.368098 2020] [cgid:error] [pid 2150] [client 127.0.0.1:63787] End of script output before headers: index.py
+[Thu Dec 10 21:39:41.776750 2020] [cgid:error] [pid 24745] (8)Exec format error: AH01241: exec of '/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py' failed
+[Thu Dec 10 21:39:41.777644 2020] [cgid:error] [pid 2149] [client 127.0.0.1:63845] End of script output before headers: index.py
+[Thu Dec 10 21:40:46.951302 2020] [cgid:error] [pid 24814] (2)No such file or directory: AH01241: exec of '/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py' failed
+[Thu Dec 10 21:40:46.953671 2020] [cgid:error] [pid 2146] [client 127.0.0.1:63877] End of script output before headers: index.py
+[Thu Dec 10 21:40:47.790470 2020] [cgid:error] [pid 24817] (2)No such file or directory: AH01241: exec of '/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py' failed
+[Thu Dec 10 21:40:47.791184 2020] [cgid:error] [pid 2150] [client 127.0.0.1:63878] End of script output before headers: index.py
+[Thu Dec 10 21:41:12.260754 2020] [cgid:error] [pid 24856] (2)No such file or directory: AH01241: exec of '/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py' failed
+[Thu Dec 10 21:41:12.261747 2020] [cgid:error] [pid 2148] [client 127.0.0.1:63898] End of script output before headers: index.py
+[Thu Dec 10 21:41:12.956669 2020] [cgid:error] [pid 24859] (2)No such file or directory: AH01241: exec of '/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py' failed
+[Thu Dec 10 21:41:12.957457 2020] [cgid:error] [pid 2535] [client 127.0.0.1:63899] End of script output before headers: index.py
+[Thu Dec 10 21:45:45.587050 2020] [cgid:error] [pid 25058] (2)No such file or directory: AH01241: exec of '/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py' failed
+[Thu Dec 10 21:45:45.587698 2020] [cgid:error] [pid 2150] [client 127.0.0.1:64070] End of script output before headers: index.py
+[Thu Dec 10 21:45:46.275303 2020] [cgid:error] [pid 25061] (2)No such file or directory: AH01241: exec of '/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py' failed
+[Thu Dec 10 21:45:46.276126 2020] [cgid:error] [pid 2146] [client 127.0.0.1:64071] End of script output before headers: index.py
+[Thu Dec 10 21:45:57.880887 2020] [cgid:error] [pid 25084] (2)No such file or directory: AH01241: exec of '/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py' failed
+[Thu Dec 10 21:45:57.881602 2020] [cgid:error] [pid 2182] [client 127.0.0.1:64077] End of script output before headers: index.py
+[Thu Dec 10 21:45:58.394899 2020] [cgid:error] [pid 25086] (2)No such file or directory: AH01241: exec of '/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py' failed
+[Thu Dec 10 21:45:58.395641 2020] [cgid:error] [pid 2535] [client 127.0.0.1:64078] End of script output before headers: index.py
+[Thu Dec 10 21:47:21.755547 2020] [cgid:error] [pid 25162] (2)No such file or directory: AH01241: exec of '/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py' failed
+[Thu Dec 10 21:47:21.756234 2020] [cgid:error] [pid 2146] [client 127.0.0.1:64130] End of script output before headers: index.py
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py", line 22
+    '''.format(title='Hello')))
+                              ^
+SyntaxError: unmatched ')'
+[Sat Dec 12 14:36:46.240171 2020] [cgid:error] [pid 2182] [client 127.0.0.1:65160] End of script output before headers: index.py, referer: http://127.0.0.1:8080/index.py?id=
+[Sat Dec 12 15:06:36.672957 2020] [cgid:error] [pid 45245] (13)Permission denied: AH01241: exec of '/Applications/mampstack-8.0.0-0/apache2/htdocs/cgi_env.py' failed
+[Sat Dec 12 15:06:36.675505 2020] [cgid:error] [pid 2535] [client 127.0.0.1:49431] End of script output before headers: cgi_env.py
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py", line 15, in <module>
+    print('''<!doctype html>
+KeyError: 'description'
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py", line 15, in <module>
+    print('''<!doctype html>
+KeyError: 'description'
+[Mon Dec 14 21:40:37.804790 2020] [cgid:error] [pid 2146] [client 127.0.0.1:59535] AH01264: script not found or unable to stat: /Applications/mampstack-8.0.0-0/apache2/htdocs/process_create.py, referer: http://127.0.0.1:8080/create.py
+[Mon Dec 14 21:48:09.690297 2020] [cgid:error] [pid 91593] (8)Exec format error: AH01241: exec of '/Applications/mampstack-8.0.0-0/apache2/htdocs/process_create.py' failed
+[Mon Dec 14 21:48:09.693281 2020] [cgid:error] [pid 2147] [client 127.0.0.1:59800] End of script output before headers: process_create.py, referer: http://127.0.0.1:8080/create.py
+[Mon Dec 14 21:48:28.780921 2020] [cgid:error] [pid 91611] (8)Exec format error: AH01241: exec of '/Applications/mampstack-8.0.0-0/apache2/htdocs/process_create.py' failed
+[Mon Dec 14 21:48:28.781626 2020] [cgid:error] [pid 2149] [client 127.0.0.1:59801] End of script output before headers: process_create.py, referer: http://127.0.0.1:8080/create.py
+[Mon Dec 14 21:49:09.797312 2020] [cgid:error] [pid 91645] (8)Exec format error: AH01241: exec of '/Applications/mampstack-8.0.0-0/apache2/htdocs/process_create.py' failed
+[Mon Dec 14 21:49:09.799088 2020] [cgid:error] [pid 2148] [client 127.0.0.1:59827] End of script output before headers: process_create.py, referer: http://127.0.0.1:8080/create.py
+[Mon Dec 14 21:51:42.275695 2020] [cgid:error] [pid 91774] (8)Exec format error: AH01241: exec of '/Applications/mampstack-8.0.0-0/apache2/htdocs/process_create.py' failed
+[Mon Dec 14 21:51:42.276629 2020] [cgid:error] [pid 2149] [client 127.0.0.1:59901] End of script output before headers: process_create.py
+[Mon Dec 14 21:52:08.810465 2020] [cgid:error] [pid 91801] (8)Exec format error: AH01241: exec of '/Applications/mampstack-8.0.0-0/apache2/htdocs/process_create.py' failed
+[Mon Dec 14 21:52:08.811225 2020] [cgid:error] [pid 2535] [client 127.0.0.1:59926] End of script output before headers: process_create.py
+[Mon Dec 14 21:52:37.276144 2020] [cgid:error] [pid 91834] (8)Exec format error: AH01241: exec of '/Applications/mampstack-8.0.0-0/apache2/htdocs/process_create.py' failed
+[Mon Dec 14 21:52:37.277082 2020] [cgid:error] [pid 2150] [client 127.0.0.1:59929] End of script output before headers: process_create.py, referer: http://127.0.0.1:8080/create.py
+[Mon Dec 14 21:55:59.684773 2020] [cgid:error] [pid 91962] (8)Exec format error: AH01241: exec of '/Applications/mampstack-8.0.0-0/apache2/htdocs/process_create.py' failed
+[Mon Dec 14 21:55:59.685405 2020] [cgid:error] [pid 2149] [client 127.0.0.1:60002] End of script output before headers: process_create.py, referer: http://127.0.0.1:8080/create.py
+[Mon Dec 14 21:59:29.953194 2020] [cgid:error] [pid 92182] (8)Exec format error: AH01241: exec of '/Applications/mampstack-8.0.0-0/apache2/htdocs/process_create.py' failed
+[Mon Dec 14 21:59:29.954065 2020] [cgid:error] [pid 2535] [client 127.0.0.1:60176] End of script output before headers: process_create.py, referer: http://127.0.0.1:8080/create.py
+[Mon Dec 14 22:00:02.226555 2020] [cgid:error] [pid 92209] (8)Exec format error: AH01241: exec of '/Applications/mampstack-8.0.0-0/apache2/htdocs/process_create.py' failed
+[Mon Dec 14 22:00:02.227244 2020] [cgid:error] [pid 2182] [client ::1:60182] End of script output before headers: process_create.py, referer: http://localhost:8080/create.py
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py", line 24, in <module>
+    print('''<!doctype html>
+KeyError: 'update_link'
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py", line 24, in <module>
+    print('''<!doctype html>
+KeyError: 'update_link'
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py", line 24, in <module>
+    print('''<!doctype html>
+KeyError: 'update_link'
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py", line 24, in <module>
+    print('''<!doctype html>
+KeyError: 'update_link'
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py", line 24, in <module>
+    print('''<!doctype html>
+KeyError: 'update_link'
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py", line 24, in <module>
+    print('''<!doctype html>
+KeyError: 'update_link'
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py", line 24, in <module>
+    print('''<!doctype html>
+KeyError: 'update_link'
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py", line 24, in <module>
+    print('''<!doctype html>
+KeyError: 'update_link'
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py", line 24, in <module>
+    print('''<!doctype html>
+KeyError: 'update_link'
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py", line 24, in <module>
+    print('''<!doctype html>
+KeyError: 'update_link'
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py", line 24, in <module>
+    print('''<!doctype html>
+KeyError: 'update_link'
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py", line 24, in <module>
+    print('''<!doctype html>
+KeyError: 'update_link'
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/update.py", line 22, in <module>
+    print('''<!doctype html>
+KeyError: 'from_default_title'
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/update.py", line 22, in <module>
+    print('''<!doctype html>
+KeyError: 'form_dfault_title'
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/update.py", line 22, in <module>
+    print('''<!doctype html>
+KeyError: 'form_dfault_title'
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/update.py", line 22, in <module>
+    print('''<!doctype html>
+KeyError: 'form_dfault_title'
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/process_update.py", line 11, in <module>
+    os.rename(pageId, title)
+NameError: name 'os' is not defined
+[Tue Dec 15 21:44:03.629360 2020] [cgid:error] [pid 2150] [client ::1:51786] End of script output before headers: process_update.py, referer: http://localhost:8080/update.py?id=HTML5%206
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/process_update.py", line 11, in <module>
+    os.rename(pageId, title)
+NameError: name 'pageId' is not defined
+[Tue Dec 15 21:44:19.995238 2020] [cgid:error] [pid 2147] [client ::1:51807] End of script output before headers: process_update.py, referer: http://localhost:8080/update.py?id=HTML5%206
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/process_update.py", line 11, in <module>
+    os.rename(pageId, title)
+NameError: name 'pageId' is not defined
+[Tue Dec 15 21:44:29.131436 2020] [cgid:error] [pid 2535] [client ::1:51808] End of script output before headers: process_update.py, referer: http://localhost:8080/update.py?id=HTML7
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/process_update.py", line 11, in <module>
+    os.rename('data/'+pageId, title)
+NameError: name 'pageId' is not defined
+[Tue Dec 15 21:45:03.051009 2020] [cgid:error] [pid 2146] [client ::1:51832] End of script output before headers: process_update.py, referer: http://localhost:8080/update.py?id=HTML777
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py", line 16, in <module>
+    description = open('data/'+pageId, 'r').read()
+FileNotFoundError: [Errno 2] No such file or directory: 'data/HTML5 666666'
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/index.py", line 16, in <module>
+    description = open('data/'+pageId, 'r').read()
+FileNotFoundError: [Errno 2] No such file or directory: 'data/HTML5 6'
+[Wed Dec 16 21:45:52.093662 2020] [ssl:warn] [pid 2392] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 1.1.1h  22 Sep 2020, version currently loaded is OpenSSL 1.1.1g  21 Apr 2020) - may result in undefined or erroneous behavior
+[Wed Dec 16 21:45:52.099162 2020] [ssl:warn] [pid 2392] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 16 21:45:52.148278 2020] [ssl:warn] [pid 2393] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 1.1.1h  22 Sep 2020, version currently loaded is OpenSSL 1.1.1g  21 Apr 2020) - may result in undefined or erroneous behavior
+[Wed Dec 16 21:45:52.149043 2020] [ssl:warn] [pid 2393] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 16 21:45:52.318783 2020] [mpm_prefork:notice] [pid 2393] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1g PHP/8.0.0 configured -- resuming normal operations
+[Wed Dec 16 21:45:52.318986 2020] [core:notice] [pid 2393] AH00094: Command line: '/Applications/mampstack-8.0.0-0/apache2/bin/httpd.bin -f /Applications/mampstack-8.0.0-0/apache2/conf/httpd.conf'
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/process_delete.py", line 5, in <module>
+    pageId = form["pageId"].value
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/cgi.py", line 520, in __getitem__
+    raise KeyError(key)
+KeyError: 'pageId'
+[Wed Dec 16 21:53:28.369169 2020] [cgid:error] [pid 2398] [client ::1:50258] End of script output before headers: process_delete.py, referer: http://localhost:8080/index.py?id=HTML7777777999
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/process_delete.py", line 5, in <module>
+    pageId = form["pageId"].value
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/cgi.py", line 520, in __getitem__
+    raise KeyError(key)
+KeyError: 'pageId'
+[Wed Dec 16 21:55:27.387458 2020] [cgid:error] [pid 2399] [client ::1:50282] End of script output before headers: process_delete.py, referer: http://localhost:8080/index.py?id=HTML7777777999
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/process_delete.py", line 5, in <module>
+    pageId = form["pageId"].value
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/cgi.py", line 520, in __getitem__
+    raise KeyError(key)
+KeyError: 'pageId'
+[Wed Dec 16 21:56:37.916764 2020] [cgid:error] [pid 2424] [client ::1:50307] End of script output before headers: process_delete.py, referer: http://localhost:8080/index.py?id=HTML7777777999
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/process_delete.py", line 5, in <module>
+    pageId = form["pageId"].value
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/cgi.py", line 520, in __getitem__
+    raise KeyError(key)
+KeyError: 'pageId'
+[Wed Dec 16 21:58:15.356204 2020] [cgid:error] [pid 2395] [client ::1:50343] End of script output before headers: process_delete.py, referer: http://localhost:8080/index.py?id=HTML7777777999
