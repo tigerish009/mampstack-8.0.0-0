@@ -1,13 +1,9 @@
 #!/usr/local/bin/python3
 print("Content-Type: text/html")
 print()
-import cgi, os
+import cgi, os, view
 
 files = os.listdir('data')
-
-listStr = ''
-for item in files:
-  listStr = listStr + '<li><a href="index.py?id={name}">{name}</a></li>'.format(name=item)
 
 form = cgi.FieldStorage()
 
@@ -40,4 +36,4 @@ print('''<!doctype html>
   </form>
 </body>
 </html>
-'''.format(title=pageId, desc=description, listStr=listStr, form_default_title=pageId, form_default_description=description))
+'''.format(title=pageId, desc=description, listStr=view.getList(), form_default_title=pageId, form_default_description=description))

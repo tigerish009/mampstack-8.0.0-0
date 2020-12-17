@@ -180,3 +180,15 @@ Traceback (most recent call last):
     raise KeyError(key)
 KeyError: 'pageId'
 [Wed Dec 16 21:58:15.356204 2020] [cgid:error] [pid 2395] [client ::1:50343] End of script output before headers: process_delete.py, referer: http://localhost:8080/index.py?id=HTML7777777999
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/create.py", line 39
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+[Thu Dec 17 21:44:44.937137 2020] [cgid:error] [pid 2426] [client ::1:61489] End of script output before headers: create.py, referer: http://localhost:8080/index.py?id=Flask
+Traceback (most recent call last):
+  File "/Applications/mampstack-8.0.0-0/apache2/htdocs/process_create.py", line 5, in <module>
+    pageId = form["pageId"].value
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/cgi.py", line 520, in __getitem__
+    raise KeyError(key)
+KeyError: 'pageId'
+[Thu Dec 17 21:45:51.585966 2020] [cgid:error] [pid 2396] [client ::1:61534] End of script output before headers: process_create.py, referer: http://localhost:8080/create.py
