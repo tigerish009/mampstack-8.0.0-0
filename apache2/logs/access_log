@@ -371,3 +371,10 @@
 ::1 - - [17/Dec/2020:21:46:55 +0900] "GET /index.py?id=Python HTTP/1.1" 200 345
 ::1 - - [17/Dec/2020:21:46:56 +0900] "GET /update.py?id=Python HTTP/1.1" 200 376
 ::1 - - [17/Dec/2020:21:47:14 +0900] "-" 408 -
+::1 - - [19/Dec/2020:17:30:24 +0900] "GET /update.py?id=Python HTTP/1.1" 200 376
+::1 - - [19/Dec/2020:17:30:25 +0900] "GET /favicon.ico HTTP/1.1" 200 1150
+::1 - - [19/Dec/2020:17:30:25 +0900] "GET /index.py HTTP/1.1" 200 248
+::1 - - [19/Dec/2020:17:30:26 +0900] "GET /index.py?id=Python HTTP/1.1" 200 345
+::1 - - [19/Dec/2020:17:30:27 +0900] "GET /index.py?id=CSS HTTP/1.1" 200 621
+::1 - - [19/Dec/2020:17:30:29 +0900] "GET /index.py?id=JavaScript HTTP/1.1" 200 764
+::1 - - [19/Dec/2020:17:30:44 +0900] "-" 408 -
